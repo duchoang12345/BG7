@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<lom>
+  <general>
+    <!--****** 2 ******-->
+    <identifier>
+      <catalog>Catalog</catalog>
+      <entry>1</entry>
+    </identifier>
+    <!--****** 1 ******-->
+    <title>
+      <string language="en-US">Khái niệm về mặt tròn xoay</string>
+    </title>
+    <language>en</language>
+    <!--****** 3 ******-->
+    <description>
+      <string language="en-US">Sản phẩm tham gia Cuộc thi thiết kế bài giảng Elearning cấp tỉnh do Sở GD-ĐT Hưng Yên tổ chức năm học 2021-2022. Bài giảng được soạn theo tiêu chuẩn SCORM, đảm bảo thời lượng hoàn chỉnh 1 tiết học. Trong bài giảng các hình ảnh, âm thanh, tương tác đa dạng, .... Bài giảng được đóng gói ở dạng chuẩn HTML5 có thể đọc trên mọi thiết bị điện tử thông minh như máy tính để bàn (PC), máy tính xách tay (Laptop), máy tính bảng (Tablet), smasphone, .....</string>
+    </description>
+    <!--****** 4 ******-->
+  </general>
+  <lifeCycle>
+    <!--****** 5 ******-->
+    <version>
+      <string language="en-US">1</string>
+    </version>
+    <status>
+      <source>LOMv1.0</source>
+      <value>final</value>
+    </status>
+  </lifeCycle>
+  <metaMetadata>
+    <metadataSchema>LOMv1.0</metadataSchema>
+    <metadataSchema>SCORM_CAM_v1.3</metadataSchema>
+  </metaMetadata>
+  <educational>
+    <typicalLearningTime>
+      <duration>PT0H0M0S</duration>
+    </typicalLearningTime>
+  </educational>
+  <technical>
+    <!--****** 6 ******-->
+    <format>text/html</format>
+  </technical>
+  <rights>
+    <!--****** 7 ******-->
+    <cost>
+      <source>LOMv1.0</source>
+      <value>yes</value>
+    </cost>
+    <!--****** 8 ******-->
+    <copyrightAndOtherRestrictions>
+      <source>LOMv1.0</source>
+      <value>yes</value>
+    </copyrightAndOtherRestrictions>
+  </rights>
+  <classification>
+    <purpose>
+      <source>LOMv1.0</source>
+      <value>educational objective</value>
+    </purpose>
+    <!--****** 9 ******-->
+    <description>
+      <string language="en-US">Sản phẩm tham gia Cuộc thi thiết kế bài giảng Elearning cấp tỉnh do Sở GD-ĐT Hưng Yên tổ chức năm học 2021-2022. Bài giảng được soạn theo tiêu chuẩn SCORM, đảm bảo thời lượng hoàn chỉnh 1 tiết học. Trong bài giảng các hình ảnh, âm thanh, tương tác đa dạng, .... Bài giảng được đóng gói ở dạng chuẩn HTML5 có thể đọc trên mọi thiết bị điện tử thông minh như máy tính để bàn (PC), máy tính xách tay (Laptop), máy tính bảng (Tablet), smasphone, .....</string>
+    </description>
+    <!--****** 10 ******-->
+    <keyword>
+      <string language="en-US">
+      </string>
+    </keyword>
+  </classification>
+</lom>
